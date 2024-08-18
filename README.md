@@ -3,7 +3,9 @@
 Rules
 
 FULL - Fn, Sn, DOB, PC
+
 A - Similar Fn, Sn, DOB, PC (a)
+
 Ab - Similar Fn, Sn, DOB, PC (b)
 
 
